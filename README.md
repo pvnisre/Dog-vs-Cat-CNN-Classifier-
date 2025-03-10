@@ -12,7 +12,12 @@
 
 ## 🚀 Features
 
-#### ✅ Deep Learning model trained on labeled cat & dog images✅ Image preprocessing using OpenCV & Keras ImageDataGenerator✅ Uses Convolutional Layers, Pooling, Flattening, and Fully Connected Layers✅ Optimized with Adam optimizer & Binary Crossentropy Loss✅ Achieves high accuracy on training & validation datasets
+#### 
+ ✅ Deep Learning model trained on labeled cat & dog images  
+ ✅ Image preprocessing using OpenCV & Keras ImageDataGenerator  
+ ✅ Uses Convolutional Layers, Pooling, Flattening, and Fully Connected Layers   
+ ✅ Optimized with Adam optimizer & Binary Crossentropy Loss  
+ ✅ Achieves high accuracy on training & validation datasets 
 
 ## 🔧 Tech Stack
 
