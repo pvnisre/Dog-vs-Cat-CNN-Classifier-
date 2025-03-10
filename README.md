@@ -4,7 +4,9 @@
 
 ## 📂 Dataset
 
-### Source: Microsoft Kaggle Cats & Dogs Dataset
+### The dataset used for training the CNN model can be downloaded from the following link:
+
+### [Microsoft Cats vs Dogs Dataset](https://download.microsoft.com/download/3/e/1/3e1c3f21-ecdb-4869-8368-6deba77b919f/kagglecatsanddogs_5340.zip)
 
 ### Preprocessing: Images are resized, normalized, and augmented using Keras ImageDataGenerator.
 
