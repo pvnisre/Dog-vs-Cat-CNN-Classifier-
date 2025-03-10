@@ -21,10 +21,10 @@
 
 ## 🔧 Tech Stack
 
-### TensorFlow & Keras - For building the CNN model
+#### TensorFlow & Keras - For building the CNN model
 
-### OpenCV - For image processing
+#### OpenCV - For image processing
 
-### NumPy & Matplotlib - For data manipulation & visualization
+#### NumPy & Matplotlib - For data manipulation & visualization
 
-### Python
+#### Python
